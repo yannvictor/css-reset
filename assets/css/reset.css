@@ -43,6 +43,5 @@ textarea {
   -moz-user-modify: read-write;
   -webkit-user-modify: read-write;
   overflow-wrap: break-word;
-  -webkit-line-break: after-white-space;
 }
 /*# sourceMappingURL=reset.css.map */
